@@ -1,0 +1,16 @@
+{
+  "Suryanshu": [
+    {
+      "id": "1756100769152udayarajdhoriSuryanshu",
+      "sender": "udayarajdhori",
+      "recipient": "Suryanshu",
+      "encrypted_data": {
+        "encrypted_message": "wGioFCrdkhVbVEdxaPnB3g==",
+        "encrypted_session_key": "aoXixcKw10PD7cO1B/psk+EoAG3l0lMnnlDpkvwYzX5g81bg4cTsek77Vqvbct55nwTxE90bD796+GFDv+/g8L6KnYnG45utJgC/dU2+X4nImdMysnT9z49xobjUzPhkiCQ5SMHeDO9auvSMnAH7sECamDrk6SI8+V0WikGt9jU2aRL26ne2u4OjhLjqArZ39yuRL9WlDeQfMQ2CAVjGhLcH0wHAezxe4qDGv5AD+79A4pMFrjfcCNxu2KVIOzGE6y1s6jPG0WmP+/38l0WduZKJUom5U1UIhkUXXLgz5Xs4o3ytbLxjZYUJkroQAgVMEBxHoQdMG+YAubN/gWcP/A==",
+        "iv": "7TbZ8g1hvjuTbvBJKb3Viw=="
+      },
+      "timestamp": "2025-08-25T11:16:09.152264",
+      "read": false
+    }
+  ]
+}
